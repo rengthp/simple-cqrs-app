@@ -26,7 +26,7 @@
 
 ## Description
 
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+Application developed in Nest JS to demonstrate CQRS implementation
 
 ## Installation
 
